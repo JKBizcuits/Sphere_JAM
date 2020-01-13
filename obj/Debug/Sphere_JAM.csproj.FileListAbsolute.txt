@@ -1,0 +1,6 @@
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\Sphere_JAM.exe.config
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\Sphere_JAM.exe
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\Sphere_JAM.pdb
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\Sphere_JAM.csprojAssemblyReference.cache
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\Sphere_JAM.exe
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\Sphere_JAM.pdb
