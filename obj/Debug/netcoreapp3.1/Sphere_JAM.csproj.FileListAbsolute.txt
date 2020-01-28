@@ -1,0 +1,12 @@
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\netcoreapp3.1\Sphere_JAM.csprojAssemblyReference.cache
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\netcoreapp3.1\Sphere_JAM.AssemblyInfoInputs.cache
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\netcoreapp3.1\Sphere_JAM.AssemblyInfo.cs
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.exe
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.dll.config
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.deps.json
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.runtimeconfig.json
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.runtimeconfig.dev.json
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.dll
+D:\Jacob\source\repos\Sphere_JAM\bin\Debug\netcoreapp3.1\Sphere_JAM.pdb
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\netcoreapp3.1\Sphere_JAM.dll
+D:\Jacob\source\repos\Sphere_JAM\obj\Debug\netcoreapp3.1\Sphere_JAM.pdb

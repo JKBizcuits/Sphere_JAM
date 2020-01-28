@@ -76,12 +76,20 @@ namespace Sphere_JAM
 
 		public override string ToString()
 		{
-			return "Sphere [diameter=" + diameter + "]";
+			return "Sphere [diameter=" + GetDiameter() + "]";
 		}//end toString
 
 		static void Main(string[] args)
         {
 			Console.WriteLine(new Sphere(20).ToString());
-        }
+			Sphere Tim = new Sphere();
+			Console.WriteLine(Tim.ToString());
+			Console.WriteLine(Tim.GetSurfaceArea());
+			Console.WriteLine(Tim.GetVolume());
+			Tim.SetDiameter(15);
+			Console.WriteLine(Tim.ToString());
+			Console.WriteLine(Tim.GetSurfaceArea());
+			Console.WriteLine(Tim.GetVolume());
+		}
     }
 }

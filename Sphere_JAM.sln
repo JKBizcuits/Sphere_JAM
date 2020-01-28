@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29613.14
+VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sphere_JAM", "Sphere_JAM.csproj", "{AE0838CA-5FB0-4183-81BF-121C224A21E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sphere_JAM", "Sphere_JAM.csproj", "{A242C23F-E94C-4BC7-88CF-C8967CD3FC0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE0838CA-5FB0-4183-81BF-121C224A21E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AE0838CA-5FB0-4183-81BF-121C224A21E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AE0838CA-5FB0-4183-81BF-121C224A21E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AE0838CA-5FB0-4183-81BF-121C224A21E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A242C23F-E94C-4BC7-88CF-C8967CD3FC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A242C23F-E94C-4BC7-88CF-C8967CD3FC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A242C23F-E94C-4BC7-88CF-C8967CD3FC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A242C23F-E94C-4BC7-88CF-C8967CD3FC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DB0C3A27-92EA-467A-A974-928F5601845E}
+		SolutionGuid = {102B82F0-FECF-49A7-AF5C-F29F2E1E68E8}
 	EndGlobalSection
 EndGlobal
